@@ -1,7 +1,7 @@
 # SmartClass
 
 <div align='center'>
-        <img src="./Images/icon.png" width="200"/>
+        <img src="./Images/icon.png" width="300"/>
 
 <h4> SmartClass - Empowering Education </h4>
 </div>
