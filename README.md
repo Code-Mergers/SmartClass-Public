@@ -2,10 +2,11 @@
 
 <div align='center'>
         <img src="./Images/icon.png" width="200"/>
+
+<h4> SmartClass - Empowering Education </h4>
 </div>
 
-#### SmartClass - Online Teaching Platform Based ReactJs and Firebase - Code Mergers
-#### __Motive:__ Empowering Education
+#### Online Teaching Platform Based ReactJs and Firebase
 
 ## Deployed Site
 - Visit [SmartClass](https://smartclass.netlify.app/)
