@@ -1,5 +1,5 @@
 <center>
-<img src="./Images/icon.png" width="200"/>
+<img align='center' src="./Images/icon.png" width="200"/>
 
 # SmartClass
 
@@ -12,33 +12,42 @@
 - Visit [SmartClass](https://smartclass.netlify.app/)
 
 ## Deployed Features
-### `Authentication`: Email Authentication, Password Hashing, Password Updation
+- `Authentication`: Email Authentication, Password Hashing, Password Updation
 <!-- ![](./Images/auth.png) -->
 
-### `Users Profile`: Managing Information, Updation, Activity Logs
+- `Users Profile`: Managing Information, Updation, Activity Logs
 <!-- ![](./Images/user1.png) -->
 <!-- ![](./Images/user.png) -->
 
-### `Class Functionality`: Class Creation, Class Manipulation,Student Participation, Sharing Material, Assigning Tasks
+- `Class Functionality`: Class Creation, Class Manipulation,Student Participation, Sharing Material, Assigning Tasks
 <!-- ![](./Images/class1.png) -->
 <!-- ![](./Images/class2.png) -->
 <!-- ![](./Images/class3.png) -->
 
-### `Material`: Sharing
+- `Material`: Sharing
 <!-- ![](./Images/share.png) -->
 <!-- ![](./Images/shared.png) -->
 
-### `Chatting`: Class chats
+- `Chatting`: Class chats
 <!-- ![](./Images/chat.png) -->
 
-### `Assignment` Assigning Assignments, Text Formatting
+- `Assignment` Assigning Assignments, Text Formatting
 <!-- ![](./Images/assign.png) -->
 
-### `Virtual Rooms`: Video Calling Rooms(Max 200 Participant), Screen Share, Audio Features
+- `Virtual Rooms`: Video Calling Rooms(Max 200 Participant), Screen Share, Audio Features
 <!-- ![](./Images/daily.png) -->
 
 
-## Line Count
+### Designed and Developed by Team [Code-Mergers](https://code-mergers-org.netlify.app/)
+
+
+[![](https://github.com/Sayan3990.png?size=50)](https://github.com/Sayan3990)
+[![](https://github.com/Abhiraj3112000.png?size=50)](https://github.com/Abhiraj3112000)
+[![](https://github.com/usagi24.png?size=50)](https://github.com/usagi24)
+[![](https://github.com/Yash15-maker.png?size=50)](https://github.com/Yash15-maker)
+
+
+### Line Count
 Latest Update: `28/01/2022`
 
 ```sh
@@ -54,15 +63,5 @@ SUM:                            30            290            155           2523
 -------------------------------------------------------------------------------
 
 ```
-
-### Designed and Developed by Team [Code-Mergers](https://code-mergers-org.netlify.app/)
-
-
-[![](https://github.com/Sayan3990.png?size=50)](https://github.com/Sayan3990)
-[![](https://github.com/Abhiraj3112000.png?size=50)](https://github.com/Abhiraj3112000)
-[![](https://github.com/usagi24.png?size=50)](https://github.com/usagi24)
-[![](https://github.com/Yash15-maker.png?size=50)](https://github.com/Yash15-maker)
-
-
 
 #### Thank you for visiting
