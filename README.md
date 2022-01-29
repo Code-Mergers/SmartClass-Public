@@ -3,7 +3,7 @@
 <div align='center'>
         <img src="./Images/icon.png" width="300"/>
 
-<h4> SmartClass - Empowering Education </h4>
+<h2> SmartClass - Empowering Education </h2>
 </div>
 
 #### Online Teaching Platform Based ReactJs and Firebase
