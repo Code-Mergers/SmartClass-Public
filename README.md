@@ -1,5 +1,3 @@
-# SmartClass
-
 <div align='center'>
         <img src="./Images/icon.png" width="300"/>
 
@@ -38,13 +36,20 @@
 <!-- ![](./Images/daily.png) -->
 
 
+<br/>
+
 ### Designed and Developed by Team [Code-Mergers](https://code-mergers-org.netlify.app/)
 
+<br/>
 
 [![](https://github.com/Sayan3990.png?size=50)](https://github.com/Sayan3990)
 [![](https://github.com/Abhiraj3112000.png?size=50)](https://github.com/Abhiraj3112000)
 [![](https://github.com/usagi24.png?size=50)](https://github.com/usagi24)
 [![](https://github.com/Yash15-maker.png?size=50)](https://github.com/Yash15-maker)
+
+
+<br/>
+<br/>
 
 
 ### Line Count
@@ -63,5 +68,8 @@ SUM:                            30            290            155           2523
 -------------------------------------------------------------------------------
 
 ```
+
+<br/>
+<br/>
 
 #### Thank you for visiting
