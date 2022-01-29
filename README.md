@@ -1,9 +1,8 @@
-<center>
-<img align='center' src="./Images/icon.png" width="200"/>
-
 # SmartClass
 
-</center>
+<div align='center'>
+        <img src="./Images/icon.png" width="200"/>
+</div>
 
 #### SmartClass - Online Teaching Platform Based ReactJs and Firebase - Code Mergers
 #### __Motive:__ Empowering Education
