@@ -1,5 +1,5 @@
 <center>
-<img src="./build/assets/otherLogos/icon.png" width="200"/>
+<img src="/Images/icon.png" width="200"/>
 <h1>SmartClass</h1>
 </center>
 
